@@ -43,6 +43,8 @@
     <img alt="licenses" src="https://img.shields.io/github/license/gyunggyung/Korea-AI-Startups?style=flat-square&color=green"></a>
   <a href="https://github.com/gyunggyung/Korea-AI-Startups/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/gyunggyung/Korea-AI-Startups?style=flat-square&color=yellow"></a>
+  <a href="https://github.com/gyunggyung/Korea-AI-Startups/network/members">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/gyunggyung/Korea-AI-Startups?style=flat-square&color=yellow"></a>
   <a href="https://github.com/gyunggyung/Korea-AI-Startups/graphs/contributors">
     <img alt="contributors" src="https://img.shields.io/badge/contributors-welcome-blueviolet?style=flat-square"></a>
   <a href="https://github.com/gyunggyung/Korea-AI-Startups/blob/master/watchers">
