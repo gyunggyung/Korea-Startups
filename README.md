@@ -64,7 +64,7 @@
 
 - 기록되지 않은 기업을 아시거나, 기업의 설명이 잘못되었다면 언제든지 수정을 부탁하겠습니다.
 
-
+- 기업에 대한 질문을 [issues](https://github.com/gyunggyung/Korea-AI-Startups/issues)에 올려주시면, 최대한 답변 드리겠습니다.
 
 <br/>
 
