@@ -11,22 +11,19 @@
   <em>
     NLP
     · Vision
+    · Data
     · Tech
   </em>
   <br />
   <em>
     Education
     · Legal
-  </em>
-  <br />
-  <em>
-    Fin
+    · Fin
     · Game
-    · Data
   </em>
   <br />
   <em>
-    <a href="https://newhiwoong.github.io/categories/">
+    <a href=".">
       GOTO CATEGORY!
     </a>
   </em>
