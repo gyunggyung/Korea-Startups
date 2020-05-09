@@ -27,7 +27,7 @@
     Contents
     · Agents
     · Search
-    · Game
+    · QA
     · Recommender 
   </em>
   <br />
