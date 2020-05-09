@@ -23,7 +23,7 @@
   </em>
   <br />
   <em>
-    <a href=".">
+    <a href="https://github.com/gyunggyung/Korea-AI-Startups/blob/master/README.md">
       GOTO CATEGORY!
     </a>
   </em>
@@ -35,9 +35,12 @@
   <a href="https://github.com/gyunggyung/Korea-AI-Startups/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/gyunggyung/Korea-AI-Startups?style=flat-square&color=yellow"></a>
   <a href="https://github.com/gyunggyung/Korea-AI-Startups/blob/master/watchers">
-    <img alt="GitHub watching" src="https://img.shields.io/github/watchers/gyunggyung/Korea-AI-Startups?style=flat-square&color=ff69b4"></a>
+    <img alt="GitHub watching" src="https://img.shields.io/github/watchers/gyunggyung/Korea-AI-Startups?style=flat-square&color=ff69b4"</a>
+  <a href="https://github.com/gyunggyung/Korea-AI-Startups/graphs/issues">
+    <img alt="issues" src="https://img.shields.io/github/issues/gyunggyung/Korea-AI-Startups?style=flat-square&color=9cf"></a>
   <a href="https://github.com/gyunggyung/Korea-AI-Startups/graphs/contributors">
     <img alt="contributors" src="https://img.shields.io/badge/contributors-welcome-yellowgreen?style=flat-square"></a>
+  
 </p>
 
 <div align="center">
@@ -51,6 +54,8 @@
 - 해당 기록을 통해 취업 준비를 하시는 분들, 이직을 준비하시는 분들에게 선택의 폭이 늘어나기를 바랍니다.
 
 - 기록되지 않은 기업을 아시거나, 기업의 설명이 잘못되었다면 언제든지 수정을 부탁하겠습니다.
+
+
 
 <br/>
 
