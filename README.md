@@ -1,4 +1,53 @@
-# Korea-startups
+<h1 align="center">Korea AI Startups</h1>
+
+<p align="center">
+  </a> 
+    </a>
+  <em>
+    Machine Learning
+    · Deep Learning
+  </em>
+  <br />
+  <em>
+    NLP
+    · Vision
+    · Tech
+  </em>
+  <br />
+  <em>
+    Education
+    · Legal
+  </em>
+  <br />
+  <em>
+    Fin
+    · Game
+    · Data
+  </em>
+  <br />
+  <em>
+    <a href="https://newhiwoong.github.io/categories/">
+      GOTO CATEGORY!
+    </a>
+  </em>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="licenses" src="https://img.shields.io/github/license/gyunggyung/Korea-AI-Startups?style=flat-square"></a>
+  <a href="https://github.com/gyunggyung/Korea-AI-Startups/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/gyunggyung/Korea-AI-Startups?style=flat-square&color=yellow"></a>
+  <a href="https://github.com/gyunggyung/Korea-AI-Startups/blob/master/watchers">
+    <img alt="GitHub watching" src="https://img.shields.io/github/watchers/gyunggyung/Korea-AI-Startups?style=flat-square&color=ff69b4"></a>
+  <a href="https://github.com/gyunggyung/Korea-AI-Startups/graphs/contributors">
+    <img alt="contributors" src="https://img.shields.io/badge/contributors-welcome-yellowgreen?style=flat-square"></a>
+</p>
+
+<div align="center">
+    <sub> 우리나라에 존재하는 다양한 인공지능 관련 스타트업을 조사해보자.🙇‍♂️🙇‍♀️ by <a href="https://github.com/Huffon/nlp-startups">Huffon</a> and <a href="https://github.com/gyunggyung/Korea-AI-Startups/stargazers">Stargazers</a>  </sub>
+</div>
+
+## Introduction
 
 대한민국에 존재하는 **인공지능 관련 스타트업**들을 기록합니다.
 
