@@ -32,8 +32,8 @@
   </em>
   <br />
   <em>
-    <a href="https://github.com/gyunggyung/Korea-AI-Startups/blob/master/README.md">
-      GOTO CATEGORY!
+    <a href="https://github.com/gyunggyung/Korea-AI-Startups#contents">
+      GOTO CONTENTS!
     </a>
   </em>
 </p>
