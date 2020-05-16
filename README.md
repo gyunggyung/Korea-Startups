@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Korea AI Startups 🌟</h1>
+<h1 align="center">🌟 Korea Startups 🌟</h1>
 
 <p align="center">
   </a> 
@@ -32,7 +32,7 @@
   </em>
   <br />
   <em>
-    <a href="https://github.com/gyunggyung/Korea-AI-Startups#contents">
+    <a href="https://github.com/gyunggyung/Korea-Startups#contents">
       GOTO CONTENTS!
     </a>
   </em>
@@ -56,12 +56,12 @@
 </p>
 
 <div align="center">
-    <sub> 우리나라에 존재하는 다양한 인공지능 관련 스타트업을 조사해보자.🙇‍♂️🙇‍♀️ by <a href="https://github.com/Huffon/nlp-startups">Huffon</a> and <a href="https://github.com/gyunggyung/Korea-AI-Startups/stargazers">Stargazers</a>  </sub>
+    <sub> 우리나라에 존재하는 다양한 스타트업을 조사해보자.🙇‍♂️🙇‍♀️ by <a href="https://github.com/Huffon/nlp-startups">Huffon</a> and <a href="https://github.com/gyunggyung/Korea-AI-Startups/stargazers">Stargazers</a>  </sub>
 </div>
 
 ## Introduction
 
-- 대한민국에 존재하는 **인공지능 관련 스타트업**들을 기록합니다.
+- 대한민국에 존재하는 **다양한 스타트업**들을 기록합니다.
 
 - 해당 기록을 통해 취업 준비를 하시는 분들, 이직을 준비하시는 분들에게 선택의 폭이 늘어나기를 바랍니다.
 
@@ -99,12 +99,6 @@
 
 <br/>
 
-## Shopping Tech
-- [**Daangn**](https://www.daangn.com/) : 당근 마켓. 중고 직거래를 시작으로 구인·구직, 클래스·모임, 동네 생활 정보, 동네 Q&A 등을 포함하는 **지역 기반 서비스** 제공. 기술력도 뛰어나며, **BERT, XL-NET 등의 최신 기술들을 사용**할 수 있는 몇 안 되는 스타트업. 
-- [**dealicious**](https://dealicious.kr/) : 딜리셔스. 동대문 패션·의류 도매 시장과 국내 ·해외 소매 사업자의 연결고리 플랫폿 **신상마켓**을 운영.
-
-<br/>
-
 ## Education Tech
 - [**MathPresso**](https://mathpresso.com/):  수학 교육 어플리케이션 **콴다**를 운영하며, 한국 스타트업에서 AWS를 2번째로 많이 쓴다는 회사. 일반적인 NLP와 달리 영어와 한글이 뿐만 아닌, **수학 기호를 통한 NLP**를 다룰 수 있음. OCR 처리 이후 자연어 처리 기술 활용과 자체적인 NLP 기술을 유치하려고 노력중.(AI로 직접 문제를 풀려는 시도 등) **다양한 문자들과 교육 도메인**에 관심이 있는 분들에게 적합한 기업
 - [**Riiid**](https://riiid.co/ko/main): 목표로 인공지능 기술로 불필요한 학습은 배제하고 개개인에게 최적의 맞춤 학습을 제공해 교육 기회의 평준화를 실천하기 위한 기업. 토익 공부 앱인 **산타토익**을 운영중.
@@ -133,6 +127,12 @@
 - [**banksalad**](https://banksalad.com/) : 내게 맞는 금융상품을 비교해주는 **뱅그샐러드**를 제작한 회사.
 - [**2Digit**](http://www.2digit.io/): **자연어 처리** 기술을 활용해 **금융 관련 뉴스 분석** 및 이를 통한 인사이트 도출
 - [**Connect Dot**](http://www.connectdot.co.kr/): **자연어 처리** 활용한 **부동산 관련 뉴스 분석** 및 **부동산 매매** 추천 시스템 개발
+
+<br/>
+
+## E-Commerce
+- [**Daangn**](https://www.daangn.com/) : 당근 마켓. 중고 직거래를 시작으로 구인·구직, 클래스·모임, 동네 생활 정보, 동네 Q&A 등을 포함하는 **지역 기반 서비스** 제공. 기술력도 뛰어나며, **BERT, XL-NET 등의 최신 기술들을 사용**할 수 있는 몇 안 되는 스타트업. 
+- [**dealicious**](https://dealicious.kr/) : 딜리셔스. 동대문 패션·의류 도매 시장과 국내 ·해외 소매 사업자의 연결고리 플랫폿 **신상마켓**을 운영.
 
 <br/>
 
