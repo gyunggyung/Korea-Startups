@@ -76,9 +76,10 @@
 - [**Atommerce**](http://www.atommerce.com/): **심리 치료**와 관련된 기업. 마음 치유 SNS 마인드카페를 운영, 또한 심리 치료  **챗봇, 커뮤니티 분석 등**으로 자연어 처리 기술 연구를 진행함. **심리적으로 힘든 사람들에게 도움을 줄 수 있으며**, 다양한 심리 데이터를 통한 분석을 할 수 있음. 심리쪽 도메인에 관심이 있는 분들에게 적합한 기업
 - [**Humelo**](http://www.humelo.com/): 카이스트 출신의 공동 창업자들이 설립하였으며, 직원의 상당수가 카이스트인 만큼 기술력이 뛰어난 회사. 회사의 메인은 **음성합성**이며, AI 성우 프로그램 프로소디를 제작. 또한 **SM Entertainment**와의 협업을 통해서 **작사 AI**를 개발 중. **음성, 음악 도메인과 NLG**에 관심이 있는 분들에게 적합한 기업
 - [**hyperconnect**](https://hyperconnect.com/): 비디오 커뮤니케이션(WebRTC) 과 인공지능(AI) 분야를 진행하는 회사. 아자르, 하쿠나를 제작한 회사. **매출액이 1700억**이 돌파한 성장속도나 매출 쪽에서는 따라올 스타트업이 없는 압도적인 회사.
-
+- [**NEOSAPINCE**](http://neosapience.com/): 다양한 음성으로 재미있는 컨텐트를 만들 수 있는 **TypeCast** 서비스를 제작
 - [**ThingsFlow**](https://thingsflow.com/):  타로, 운세와 같은 **다양한 주제의 챗봇 컨텐츠**를 제작
-- [**Platfarm**](http://mojitok.com/):  사용자 쿼리에 알맞는 **이모티콘을 추천**해주는 엔진 개발
+- [**Platfarm**](http://mojitok.com/): 사용자 쿼리에 알맞는 **이모티콘을 추천**해주는 엔진 개발
+- [**FLO**](https://www.music-flo.com/): 사용자에 **맞춤 음악**을 추천해주는 **플로** 개발
 
 <br/>
 
@@ -101,8 +102,8 @@
 
 ## Education Tech
 - [**MathPresso**](https://mathpresso.com/):  수학 교육 어플리케이션 **콴다**를 운영하며, 한국 스타트업에서 AWS를 2번째로 많이 쓴다는 회사. 일반적인 NLP와 달리 영어와 한글이 뿐만 아닌, **수학 기호를 통한 NLP**를 다룰 수 있음. OCR 처리 이후 자연어 처리 기술 활용과 자체적인 NLP 기술을 유치하려고 노력중.(AI로 직접 문제를 풀려는 시도 등) **다양한 문자들과 교육 도메인**에 관심이 있는 분들에게 적합한 기업
-- [**Riiid**](https://riiid.co/ko/main): 목표로 인공지능 기술로 불필요한 학습은 배제하고 개개인에게 최적의 맞춤 학습을 제공해 교육 기회의 평준화를 실천하기 위한 기업. 토익 공부 앱인 **산타토익**을 운영중.
-
+- [**Riiid**](https://riiid.co/ko/main): 인공지능을 이용한 맞춤 토익 공부 앱인 **산타토익**을 개발 및 운영중.
+- [**TURING**](http://teamturing.com/): 인공지능을 이용한 수학 공부 앱인 **수학대왕**을 개발 및 운영중.
 - [**LXPER**](https://www.lxper.com/):  자연어 처리 기술을 기반으로 **영어 학습 컨텐츠**를 제작
 
 <br/>
@@ -112,6 +113,7 @@
 
 - [**Catbell**](https://catbell.org/) : **국회 입법** 모니터링 서비스
 - [**LegalInsight**](http://www.legalinsight.kr/) : **계약서, 고소장** 등 법률 문서 자동 작성 서비스
+- [**Law&Company**](http://lawcompany.co.kr/): 변호사 매칭앱인 **로톡** 개발 및 서비스.
 
 <br/>
 
@@ -133,6 +135,7 @@
 ## E-Commerce
 - [**Daangn**](https://www.daangn.com/) : 당근 마켓. 중고 직거래를 시작으로 구인·구직, 클래스·모임, 동네 생활 정보, 동네 Q&A 등을 포함하는 **지역 기반 서비스** 제공. 기술력도 뛰어나며, **BERT, XL-NET 등의 최신 기술들을 사용**할 수 있는 몇 안 되는 스타트업. 
 - [**dealicious**](https://dealicious.kr/) : 딜리셔스. 동대문 패션·의류 도매 시장과 국내 ·해외 소매 사업자의 연결고리 플랫폿 **신상마켓**을 운영.
+- [**BALAAN**](https://www.balaan.co.kr/shop/main/intro.php) : 명품 온라인 부티크로 다양한 명품을 구매할 수 있는 **발란**을 운영.
 
 <br/>
 
@@ -151,6 +154,16 @@
 
 ## Data Platform
 - [**Deep Natural**](https://app.deepnatural.ai/): 모델에 필요한 **한국어 데이터셋**을 크라우드 소싱을 통해 수집
+
+<br/>
+
+## Auto ML
+- [**XBrain**](https://www.xbrain.team/): 자동화 기반의 AutoML과 코딩지식이 필요없는 직관적인 GUI을 통하여 사용자의 머신러닝에 대한 이해수준과 무관하게 쉽게 모델을 생성하고 기존 작업에 간단히 적용할 수 있게 만드는 머신러닝 툴 **Daria** 개발
+
+<br/>
+
+## Recommender System
+-[**Dable**](https://dable.io/ko/): 사용자 행동을 다시 추천 결과에 반영하여 자동으로 추천 품질을 높이는 기술 개발 및 운영
 
 <br/>
 
