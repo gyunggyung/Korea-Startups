@@ -73,6 +73,7 @@
 
 ## Contents
 - [**ROA Intelligence**](https://stage.roa.ai/): 자연어 처리 기술을 기반으로 **기업 분석 및 검색** 서비스 개발. 17년된 컨설팅 회사가 자회사로 존재하여, 다양한 데이터가 존재. 이사진이 모두 창업가 출신으로 아이템에 대한 이해가가 높으며, 직원들에게 매우 열려있는 회사.
+
 - [**Atommerce**](http://www.atommerce.com/): **심리 치료**와 관련된 기업. 마음 치유 SNS 마인드카페를 운영, 또한 심리 치료  **챗봇, 커뮤니티 분석 등**으로 자연어 처리 기술 연구를 진행함. **심리적으로 힘든 사람들에게 도움을 줄 수 있으며**, 다양한 심리 데이터를 통한 분석을 할 수 있음. 심리쪽 도메인에 관심이 있는 분들에게 적합한 기업
 - [**Humelo**](http://www.humelo.com/): 카이스트 출신의 공동 창업자들이 설립하였으며, 직원의 상당수가 카이스트인 만큼 기술력이 뛰어난 회사. 회사의 메인은 **음성합성**이며, AI 성우 프로그램 프로소디를 제작. 또한 **SM Entertainment**와의 협업을 통해서 **작사 AI**를 개발 중. **음성, 음악 도메인과 NLG**에 관심이 있는 분들에게 적합한 기업
 - [**hyperconnect**](https://hyperconnect.com/): 비디오 커뮤니케이션(WebRTC) 과 인공지능(AI) 분야를 진행하는 회사. 아자르, 하쿠나를 제작한 회사. **매출액이 1700억**이 돌파한 성장속도나 매출 쪽에서는 따라올 스타트업이 없는 압도적인 회사.
@@ -96,12 +97,14 @@
 
 ## Search & QA
 - [**42Maru**](https://www.42maru.ai/en/):  **Semantic QA**를 연구하며, SQuAD에서 우수한 성적을 거둔 이력
+
 - [**AgileSoDA**](http://agilesoda.com/kr/):  문서 검색 및 분류 서비스 **AestheticDoc**을 개발 
 
 <br/>
 
 ## Education Tech
 - [**MathPresso**](https://mathpresso.com/):  수학 교육 어플리케이션 **콴다**를 운영하며, 한국 스타트업에서 AWS를 2번째로 많이 쓴다는 회사. 일반적인 NLP와 달리 영어와 한글이 뿐만 아닌, **수학 기호를 통한 NLP**를 다룰 수 있음. OCR 처리 이후 자연어 처리 기술 활용과 자체적인 NLP 기술을 유치하려고 노력중.(AI로 직접 문제를 풀려는 시도 등) **다양한 문자들과 교육 도메인**에 관심이 있는 분들에게 적합한 기업
+
 - [**Riiid**](https://riiid.co/ko/main): 인공지능을 이용한 맞춤 토익 공부 앱인 **산타토익**을 개발 및 운영중.
 - [**TURING**](http://teamturing.com/): 인공지능을 이용한 수학 공부 앱인 **수학대왕**을 개발 및 운영중.
 - [**LXPER**](https://www.lxper.com/):  자연어 처리 기술을 기반으로 **영어 학습 컨텐츠**를 제작
@@ -119,6 +122,7 @@
 
 ## Game Tech
 - [**Bagelcode**](https://bagelcode.recruiter.co.kr/appsite/company/index) : **소셜 카지노 게임**인 클럽 베가스와 에픽다이아몬드슬랏의 운영사. 국내보다 해외에서 유명한 회사.
+
 - [**Devsisters**](https://www.devsisters.com/ko/) : **쿠키런**을 만든 회사.
 - [**Tapjoy**](https://www.tapjoy.com/ko/) : **모바일 광고** 및 **앱 광고** 수익화 업계
 
@@ -126,6 +130,7 @@
 
 ## Fin Tech
 - [**toss**](https://toss.im/) : 토스팀은 불편하고 복잡한 금융의 문제를 해결하기 위해 **토스**를 제작한 회사.
+
 - [**banksalad**](https://banksalad.com/) : 내게 맞는 금융상품을 비교해주는 **뱅그샐러드**를 제작한 회사.
 - [**2Digit**](http://www.2digit.io/): **자연어 처리** 기술을 활용해 **금융 관련 뉴스 분석** 및 이를 통한 인사이트 도출
 - [**Connect Dot**](http://www.connectdot.co.kr/): **자연어 처리** 활용한 **부동산 관련 뉴스 분석** 및 **부동산 매매** 추천 시스템 개발
@@ -134,6 +139,7 @@
 
 ## E-Commerce
 - [**Daangn**](https://www.daangn.com/) : 당근 마켓. 중고 직거래를 시작으로 구인·구직, 클래스·모임, 동네 생활 정보, 동네 Q&A 등을 포함하는 **지역 기반 서비스** 제공. 기술력도 뛰어나며, **BERT, XL-NET 등의 최신 기술들을 사용**할 수 있는 몇 안 되는 스타트업. 
+
 - [**dealicious**](https://dealicious.kr/) : 딜리셔스. 동대문 패션·의류 도매 시장과 국내 ·해외 소매 사업자의 연결고리 플랫폿 **신상마켓**을 운영.
 - [**BALAAN**](https://www.balaan.co.kr/shop/main/intro.php) : 명품 온라인 부티크로 다양한 명품을 구매할 수 있는 **발란**을 운영.
 
@@ -141,6 +147,7 @@
 
 ## NLU Engine
 - [**Allganize.ai**](https://allganize.ai/):  **자연어 이해 엔진**과 더불어 **기계독해 엔진** 등 다양한 자연어 처리 엔진 개발 
+
 - [**Atlas Labs**](https://www.atlaslabs.ai/):  음성 인식 엔진 **Zeroth**에 뒷따르는 **자연어 이해 엔진** 개발
 - [**Saltlux**](http://www.saltlux.com/):  자연어 처리 외 다양한 인공지능 기술을 연구하며, 이 중 **자연어 이해 엔진**도 개발
 - [**XINAPSE**](https://www.xinapse.ai/): 한국어 특화 **자연어 이해 엔진**과 **토픽 모델**을 개발
