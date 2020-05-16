@@ -170,7 +170,7 @@
 <br/>
 
 ## Recommender System
--[**Dable**](https://dable.io/ko/): 사용자 행동을 다시 추천 결과에 반영하여 자동으로 추천 품질을 높이는 기술 개발 및 운영
+- [**Dable**](https://dable.io/ko/): 사용자 행동을 다시 추천 결과에 반영하여 자동으로 추천 품질을 높이는 기술 개발 및 운영
 
 <br/>
 
