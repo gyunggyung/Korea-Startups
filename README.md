@@ -78,7 +78,7 @@
 - [**Humelo**](http://www.humelo.com/): 카이스트 출신의 공동 창업자들이 설립하였으며, 직원의 상당수가 카이스트인 만큼 기술력이 뛰어난 회사. 회사의 메인은 **음성합성**이며, AI 성우 프로그램 프로소디를 제작. 또한 **SM Entertainment**와의 협업을 통해서 **작사 AI**를 개발 중. **음성, 음악 도메인과 NLG**에 관심이 있는 분들에게 적합한 기업
 - [**hyperconnect**](https://hyperconnect.com/): 비디오 커뮤니케이션(WebRTC) 과 인공지능(AI) 분야를 진행하는 회사. 아자르, 하쿠나를 제작한 회사. **매출액이 1700억**이 돌파한 성장속도나 매출 쪽에서는 따라올 스타트업이 없는 압도적인 회사.
 - [**NEOSAPINCE**](http://neosapience.com/): 다양한 음성으로 재미있는 컨텐트를 만들 수 있는 **TypeCast** 서비스를 제작
-- [**ThingsFlow**](https://thingsflow.com/):  타로, 운세와 같은 **다양한 주제의 챗봇 컨텐츠**를 제작
+- [**ThingsFlow**](https://thingsflow.com/):  타로, 운세와 같은 다양한 주제의 **챗봇 컨텐츠**를 제작
 - [**Platfarm**](http://mojitok.com/): 사용자 쿼리에 알맞는 **이모티콘을 추천**해주는 엔진 개발
 - [**FLO**](https://www.music-flo.com/): 사용자에 **맞춤 음악**을 추천해주는 **플로** 개발
 
@@ -87,11 +87,11 @@
 ## Conversational Agents
 - [**Skelter Labs**](https://skelterlabs.com/ko/): 구글 코리아 출신의 사람들이 다수 포진돼 있으며, **KorQuAD에서 1위**를 유지하는 명실상부 최고의 기술력을 지닌 회사. 창업자가 구글 코리아의 대표 출신. 최종적으로 **자비스**를 구현하는 것을 목표로 하고 있음. 회사 내부에 여러 가지 프로젝트가 존재하며, 원하는 프로젝트를 선택할 수 있다고 함.
 
-- [**MINDLOGIC**](https://mindlogic.ai/): 감성 대화가 가능한 음성 기반 **연인 챗봇**을 개발하며 챗봇 시스템에 자연어 처리 기술이 활용
+- [**MINDLOGIC**](https://mindlogic.ai/): 감성 대화가 가능한 음성 기반 **연인 챗봇 가상남여**를 개발
 - [**MoneyBrain**](http://www.moneybrain.ai/): 비대면 상담 서비스가 가능한 **Play Chat**을 개발
 - [**POSICUBE**](https://www.posicube.com/): 인공지능 기반 전화상담 서비스 **ROBI 리셉션**에 활용되는 **자연어 처리 모듈**(Intent, Chatbot, etc.) 개발
 - [**Scatter Lab**](https://scatterlab.co.kr/): 일상 대화 엔진 **Ping Pong**을 개발, **연애의 과학** 운영으로 카카오톡 대화 기반 연애 감정 측정기 개발
-- [**Turing Bot**](https://beta.cloudturing.com/turingbot.html): 챗봇을 오랜 기간 연구한 꿈많은청년들의 인공지능 챗봇 프로젝트 **튜링봇**
+- [**Turing Bot**](https://beta.cloudturing.com/turingbot.html): 꿈많은청년들의 인공지능 챗봇 프로젝트 **튜링봇**
 
 <br/>
 
@@ -103,11 +103,11 @@
 <br/>
 
 ## Education Tech
-- [**MathPresso**](https://mathpresso.com/):  수학 교육 어플리케이션 **콴다**를 운영하며, 한국 스타트업에서 AWS를 2번째로 많이 쓴다는 회사. 일반적인 NLP와 달리 영어와 한글이 뿐만 아닌, **수학 기호를 통한 NLP**를 다룰 수 있음. OCR 처리 이후 자연어 처리 기술 활용과 자체적인 NLP 기술을 유치하려고 노력중.(AI로 직접 문제를 풀려는 시도 등) **다양한 문자들과 교육 도메인**에 관심이 있는 분들에게 적합한 기업
+- [**MathPresso**](https://mathpresso.com/):  수학 교육 어플리케이션 **콴다**를 운영하며, 한국 스타트업에서 AWS를 2번째로 많이 쓴다는 회사. 일반적인 NLP와 달리 영어와 한글이 뿐만 아닌 **수학 기호를 통한 NLP**를 다룰 수 있음. OCR 처리 이후 자연어 처리 기술 활용과 자체적인 NLP 기술을 유치하려고 노력중. **다양한 문자들과 교육 도메인**에 관심이 있는 분들에게 적합한 기업
 
 - [**Riiid**](https://riiid.co/ko/main): 인공지능을 이용한 맞춤 토익 공부 앱인 **산타토익**을 개발 및 운영중.
 - [**TURING**](http://teamturing.com/): 인공지능을 이용한 수학 공부 앱인 **수학대왕**을 개발 및 운영중.
-- [**LXPER**](https://www.lxper.com/):  자연어 처리 기술을 기반으로 **영어 학습 컨텐츠**를 제작
+- [**LXPER**](https://www.lxper.com/):  인공지능을 이용한 **영어 학습 컨텐츠**를 제작
 
 <br/>
 
