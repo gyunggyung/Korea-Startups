@@ -86,11 +86,12 @@
 
 ## Conversational Agents
 - [**Skelter Labs**](https://skelterlabs.com/ko/) : 창업자가 구글 코리아의 대표 출신으로 구글 코리아 출신의 사람들이 다수 포진돼 있으며, **KorQuAD에서 1위**를 유지하는 명실상부 최고의 기술력을 지닌 회사. 최종적으로 **아이언맨의 자비스**를 구현하는 것을 목표로 하고 있음. 회사 내부에 여러 가지 프로젝트가 존재하며, 원하는 프로젝트를 선택할 수 있다고 함.
+- [**Scatter Lab**](https://scatterlab.co.kr/) : 일상 대화 엔진 **Ping Pong**을 개발. 다양한 가상 인물과 대화를 할 수 있는 경험을 만들어주는 챗봇으로 사용. **연애의 과학** 운영으로 카카오톡 대화 기반 연애 감정 측정기 개발. 최종적으로는 영화 her에 나오는 사만다 같은 인공지능을 만드는 것이라고 함.
 
 - [**MINDLOGIC**](https://mindlogic.ai/) : 감성 대화가 가능한 음성 기반 **연인 챗봇 가상남여**를 개발
 - [**MoneyBrain**](http://www.moneybrain.ai/) : 비대면 상담 서비스가 가능한 **Play Chat**을 개발
 - [**POSICUBE**](https://www.posicube.com/) : 인공지능 기반 전화상담 서비스 **ROBI 리셉션**에 활용되는 **자연어 처리 모듈**(Intent, Chatbot, etc.) 개발
-- [**Scatter Lab**](https://scatterlab.co.kr/) : 일상 대화 엔진 **Ping Pong**을 개발, **연애의 과학** 운영으로 카카오톡 대화 기반 연애 감정 측정기 개발
+
 - [**Turing Bot**](https://beta.cloudturing.com/turingbot.html) : 꿈많은청년들의 인공지능 챗봇 프로젝트 **튜링봇**
 
 <br/>
