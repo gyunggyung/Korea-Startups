@@ -82,6 +82,12 @@
 - [**Platfarm**](http://mojitok.com/) : 사용자 쿼리에 알맞는 **이모티콘을 추천**을 해주는 엔진을 개발
 - [**FLO**](https://www.music-flo.com/) : 사용자에 **맞춤 음악**을 추천해주는 **플로**를 개발
 
+- [**Orbis AI**](https://www.orbisai.co/] : **AI 성우 플랫폼 LOVO**를 제공하는 음성AI 스타트업
+
+- [**wemeetplace**](https://wemeetplace.com/) : 서로 다른 위치에 있는 **친구들이 만날 때**, 고민하는 시간과 장소에 대한 문제에 집중하는 회사
+
+- [**mycelebs**](https://www.mycelebs.com/) : 인공지능과 음성인식 기술을 활용해 40 여개 카테고리의 다양한 취향 검색을 제공하는 **말로 찾는 취향 포털 말해** 제작
+
 <br/>
 
 ## Conversational Agents
@@ -119,13 +125,15 @@
 - [**LegalInsight**](http://www.legalinsight.kr/) : **계약서, 고소장** 등 법률 문서 자동 작성 서비스
 - [**Law&Company**](http://lawcompany.co.kr/) : 변호사 매칭앱인 **로톡** 개발 및 서비스.
 
+- [**Lawfully**](https://www.lawfully.com/) : 20조원 규모의 미국 **이민법 시장에 인공지능 기술**을 적용하여 이민자들과 이민변호사들의 부담을 획기적으로 줄여줄 수 있는 솔루션을 개발
+
 <br/>
 
 ## Game Tech
 - [**Bagelcode**](https://bagelcode.recruiter.co.kr/appsite/company/index) : **소셜 카지노 게임**인 클럽 베가스와 에픽다이아몬드슬랏의 운영사. 국내보다 해외에서 유명한 회사.
 
 - [**Devsisters**](https://www.devsisters.com/ko/) : **쿠키런**을 만든 회사.
-- [**Tapjoy**](https://www.tapjoy.com/ko/) : **모바일 광고** 및 **앱 광고** 수익화 업계
+- [**Tapjoy**](https://www.tapjoy.com/ko/) : **모바일 광고** 및 **앱 광고** 수익화 업계.
 
 <br/>
 
@@ -133,8 +141,21 @@
 - [**toss**](https://toss.im/) : 토스팀은 불편하고 복잡한 금융의 문제를 해결하기 위해 **토스**를 제작한 회사.
 
 - [**banksalad**](https://banksalad.com/) : 내게 맞는 금융상품을 비교해주는 **뱅그샐러드**를 제작한 회사.
-- [**2Digit**](http://www.2digit.io/) : **자연어 처리** 기술을 활용해 **금융 관련 뉴스 분석** 및 이를 통한 인사이트 도출
-- [**Connect Dot**](http://www.connectdot.co.kr/) : **자연어 처리** 활용한 **부동산 관련 뉴스 분석** 및 **부동산 매매** 추천 시스템 개발
+- [**2Digit**](http://www.2digit.io/) : **자연어 처리** 기술을 활용해 **금융 관련 뉴스 분석** 및 이를 통한 인사이트 도출.
+- [**Connect Dot**](http://www.connectdot.co.kr/) : **자연어 처리** 활용한 **부동산 관련 뉴스 분석** 및 **부동산 매매** 추천 시스템 개발.
+
+- [**QRAFTEC**](https://www.qraftec.com/) : AI 기술을 활용하여 **자산운용**를 해주는 회사.
+
+- [**AIZEN Global**](http://www.aizenglobal.com/) : 복잡한 머신러닝 모델링 프로세스를 자동화하여 **금융의 자율주행**을 통한 금융혁신을 진행
+
+
+<br/>
+
+## Health Tech
+- [**monitor**](http://monitorcorp.ai/) : 전문의와 인터랙션하며 **의료영상을 분석**하는 머신러닝 솔루션 제작
+
+- [**LVIS**](http://www.lviscorp.com/) : 뇌신경 분석기술로 뇌 신호 분석을 통해 뇌 내에 구축되어 있는 네트워크 관계를 밝혀냄으로써 **뇌질환**에 대한 새로운 치료법 탐색
+- [**linewalks**](https://linewalks.com/) : **헬스케어 분야**에서 대용량 데이터 처리 시스템을 기반으로 기계학습 엔진 및 시각화 기술을 이용한 데이터 서비스를 개발
 
 <br/>
 
@@ -157,6 +178,9 @@
 
 ## Personalized Recommender System
 - [**dable.io**](https://dable.io/ko/) : **아시아 7개 국**에서 **8개 언어** 대상 2200개 미디어 통한 자연어 처리 및 **개인화 추천** 제공
+- [**tan.D**](https://www.tand.kr/) : 데이터의 전문 지식 없이도 사용할 수 있는 고객 행동 빅데이터 분석 솔루션 **Sphere Analytics** 제작
+- [**D.DIVE**](https://www.ddive.co/) : 데이터인텔리전스 기반의 **디지털 마케팅 최적화** 솔루션 제공 기업
+
 
 <br/>
 
