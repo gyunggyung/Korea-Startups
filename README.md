@@ -82,7 +82,7 @@
 - [**Platfarm**](http://mojitok.com/) : 사용자 쿼리에 알맞는 **이모티콘을 추천**을 해주는 엔진을 개발
 - [**FLO**](https://www.music-flo.com/) : 사용자에 **맞춤 음악**을 추천해주는 **플로**를 개발
 
-- [**Orbis AI**](https://www.orbisai.co/] : **AI 성우 플랫폼 LOVO**를 제공하는 음성AI 스타트업
+- [**Orbis AI**](https://www.orbisai.co/) : **AI 성우 플랫폼 LOVO**를 제공하는 음성AI 스타트업
 
 - [**wemeetplace**](https://wemeetplace.com/) : 서로 다른 위치에 있는 **친구들이 만날 때**, 고민하는 시간과 장소에 대한 문제에 집중하는 회사
 
