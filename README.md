@@ -84,7 +84,7 @@
 
 - [**Orbis AI**](https://www.orbisai.co/) : **AI 성우 플랫폼 LOVO**를 제공하는 음성AI 스타트업
 
-- [**wemeetplace**](https://wemeetplace.com/) : 서로 다른 위치에 있는 **친구들이 만날 때**, 고민하는 시간과 장소에 대한 문제에 집중하는 회사
+- [**wemeetplace**](https://wemeetplace.com/) : 서로 다른 위치에 있는 **친구들이 만날 때** 도와주는 **wemeetplace**를 개발
 
 - [**mycelebs**](https://www.mycelebs.com/) : 인공지능과 음성인식 기술을 활용해 40 여개 카테고리의 다양한 취향 검색을 제공하는 **말로 찾는 취향 포털 말해** 제작
 
