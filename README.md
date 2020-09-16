@@ -140,7 +140,7 @@
 ## Fin Tech
 - [**toss**](https://toss.im/) : 토스팀은 불편하고 복잡한 금융의 문제를 해결하기 위해 **토스**를 제작한 회사.
 
-- [**banksalad**](https://banksalad.com/) : 내게 맞는 금융상품을 비교해주는 **뱅그샐러드**를 제작한 회사.
+- [**banksalad**](https://banksalad.com/) : 내게 맞는 금융상품을 비교해주는 **뱅크샐러드**를 제작한 회사.
 - [**2Digit**](http://www.2digit.io/) : **자연어 처리** 기술을 활용해 **금융 관련 뉴스 분석** 및 이를 통한 인사이트 도출.
 - [**Connect Dot**](http://www.connectdot.co.kr/) : **자연어 처리** 활용한 **부동산 관련 뉴스 분석** 및 **부동산 매매** 추천 시스템 개발.
 
