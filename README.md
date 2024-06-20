@@ -143,3 +143,12 @@
   - TensorFlow 개발자 자격증 보유, 다수 기업 및 교육기관 강의
   - '파이썬 딥러닝 텐서플로' 저자 (2021, 정보문화사)
   - LangChain KR 밋업 연사, 기업 AI 교육 프로그램 운영
+
+### 김태영
+- 분야: AI 교육/컨설팅, 플랫폼 개발
+- 주요 활동: AIFactory CEO, Microsoft Regional Director, AI 강의 및 저술
+- 특징:
+  - LangChain KR 커뮤니티 운영으로 국내 LLM 개발 생태계 활성화
+  - "블록과 함께 하는 파이썬 딥러닝 케라스" 저자
+  - 케라스 코리아, 캐글 코리아 등 대규모 AI 학습 커뮤니티 운영
+  - NASA FDL, NVIDIA AI 컨퍼런스 등 국내외 주요 AI 행사 연사
