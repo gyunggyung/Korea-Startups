@@ -181,3 +181,13 @@
   - 한국청소년학술대회(KSCY) 설립 및 8년간 운영
   - 아시아를 대표하는 생성형 AI 메가플랫폼 구축 목표
   - 포브스코리아 선정 '30세 미만 30인 2024' 선정
+
+### 염기웅
+- 분야: AGI(Artificial General Intelligence), NLP(자연어 처리)
+- 주요 활동: 오픈 소스 AI 프로젝트 기여, NLP 엔지니어, AI 커뮤니티 운영
+- 특징:
+  - 페이스북에서 AI 관련 커뮤니티 다수 운영
+  - 접근 가능하고 투명한 AGI 개발 옹호
+  - LiOn, DistilKoBiLSTM, KoGPT2-FineTuning, HAMA, KoKo 등 주요 한국어 오픈 소스 프로젝트 주도
+  - 경량화 및 효율적인 모델, 개인용 AGI 개발에 관심
+  - MLLM(대규모 언어 모델), AGI, 지식 증류(Distillation) 분야 전문
