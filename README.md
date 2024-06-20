@@ -152,3 +152,12 @@
   - "블록과 함께 하는 파이썬 딥러닝 케라스" 저자
   - 케라스 코리아, 캐글 코리아 등 대규모 AI 학습 커뮤니티 운영
   - NASA FDL, NVIDIA AI 컨퍼런스 등 국내외 주요 AI 행사 연사
+
+### 박상준
+- 분야: AI 연구/개발, 자연어 처리
+- 주요 활동: Upstage AI 연구 엔지니어, 학술 연구
+- 특징:
+  - ICML 2024 Spotlight 논문 "Memoria: Resolving Fateful Forgetting Problem through Human-Inspired Memory Architecture" 저자
+  - 성균관대학교 컴퓨터공학과 및 심리학과 복수전공 (GPA: 4.24/4.5)
+  - Scatterlab에서 대화형 AI 챗봇 '이루다' 개발에 참여
+  - 다양한 NLP 프로젝트 경험 (대화 요약, 이름 인식, 모델 최적화 등)
