@@ -136,14 +136,6 @@
 
 ## AI 및 기술 전문가
 
-### 테디노트 (Teddy Lee, 이경록)
-- 분야: AI 교육/컨설팅
-- 주요 활동: AI 강의, 저술, 기업 컨설팅
-- 특징:
-  - TensorFlow 개발자 자격증 보유, 다수 기업 및 교육기관 강의
-  - '파이썬 딥러닝 텐서플로' 저자 (2021, 정보문화사)
-  - LangChain KR 밋업 연사, 기업 AI 교육 프로그램 운영
-
 ### 김태영
 - 분야: AI 교육/컨설팅, 플랫폼 개발
 - 주요 활동: AIFactory CEO, Microsoft Regional Director, AI 강의 및 저술
@@ -159,9 +151,7 @@
 - 특징:
   - ICML 2024 Spotlight 논문 "Memoria: Resolving Fateful Forgetting Problem through Human-Inspired Memory Architecture" 저자
   - 성균관대학교 컴퓨터공학과 및 심리학과 복수전공 (GPA: 4.24/4.5)
-  - Scatterlab에서 대화형 AI 챗봇 '이루다' 개발에 참여
-  - 다양한 NLP 프로젝트 경험 (대화 요약, 이름 인식, 모델 최적화 등)
-
+  - Scatterlab에서 대화형 AI 챗봇 '이루다' 개발
 
 ### 서승완
 - 분야: 프롬프트 엔지니어링, AI 교육
@@ -184,20 +174,9 @@
 
 ### 염기웅
 - 분야: AGI(Artificial General Intelligence), NLP(자연어 처리)
-- 주요 활동: 오픈 소스 AI 프로젝트 기여, NLP 엔지니어, AI 커뮤니티 운영
+- 주요 활동: 헬리오스마인드 대표, 오픈 소스 AI 프로젝트 주도, LLM 엔지니어, LLM 커뮤니티 운영, LLM 세미나
 - 특징:
-  - 페이스북에서 AI 관련 커뮤니티 다수 운영
-  - 접근 가능하고 투명한 AGI 개발 옹호
+  - LlamaIndex HuggingFace LLM OpenAI KR 커뮤니티 운영으로 국내 AI 및 LLM 생태계 활성화
   - LiOn, DistilKoBiLSTM, KoGPT2-FineTuning, HAMA, KoKo 등 주요 한국어 오픈 소스 프로젝트 주도
   - 경량화 및 효율적인 모델, 개인용 AGI 개발에 관심
-  - MLLM(대규모 언어 모델), AGI, 지식 증류(Distillation) 분야 전문
-
-## 문철한
-- 분야: 추천 시스템, 정보 검색, 빅데이터 처리
-- 주요 활동: 후배 교육 및 프로젝트 피드백, 연구 활동
-- 특징:
-  - 오프라인 전시회 프로젝트 관리 전문가
-  - ODA 통한 국제 교육 경험 (방글라데시 대상 파이썬 교육)
-  - 개인화 및 효율적 데이터 처리 방법론 연구
-  - 아파치 스파크 기반 빅데이터 처리 기법 연구
-  - '직관'의 전산화 및 이미지 검색 기법 논문화 진행 중
+  - 쏘카, 구글, 세종대, 한빛미디어, LlamaIndex 등에서 인공지능 LLM 관련 세미나 기획 및 진행
